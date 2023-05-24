@@ -18,7 +18,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 Telegram Link : https://t.me/SB_BotZ_Updates 
 Repo Link : https://github.com/abhibotmaker/Renamebot
-License Link : https://github.com/TEAM-PYRO-BOTZ/PYRO-RENAME-BOT/blob/main/LICENSE
+License Link : https://github.com/abhibotmaker/Renamebot/blob/main/LICENSE
 """
 
 from pyrogram import Client, filters, enums 
